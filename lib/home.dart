@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
               ),
               const SizedBox(height: 12),
               Text(
-                "",
+                "Pancake",
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
@@ -35,7 +35,7 @@ class Home extends StatelessWidget {
               ),
               const SizedBox(height: 12),
               Text(
-                "",
+                "Sushi",
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
@@ -53,7 +53,7 @@ class Home extends StatelessWidget {
               ),
               const SizedBox(height: 12),
               Text(
-                "",
+                "Cupcake",
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
